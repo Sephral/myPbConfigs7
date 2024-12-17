@@ -1,0 +1,12 @@
+{
+    "adg": 0.0027573493981224574,
+    "drawdown_worst": 0.12480607655043843,
+    "equity_balance_diff_max": 0.10287603957878505,
+    "equity_balance_diff_mean": 0.005380702960633593,
+    "loss_profit_ratio": 0.328929278835205,
+    "loss_profit_ratio_long": 0.328929278835205,
+    "loss_profit_ratio_short": 1.0,
+    "mdg": 0.0011033086145407545,
+    "pnl_ratio_long_short": 1.0,
+    "sharpe_ratio": 0.3140646464205827
+}
